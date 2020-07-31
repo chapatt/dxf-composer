@@ -1,0 +1,17 @@
+{
+  "name": "dxf-composer",
+  "version": "0.1.0",
+  "description": "A simple DXF generation library.",
+  "module": "./dist/dxf-composer.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "prod": "webpack --watch --progress --mode development",
+    "dev": "webpack --progress --mode development",
+    "prod": "webpack --progress --mode production"
+  }
+}
