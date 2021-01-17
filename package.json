@@ -2,8 +2,14 @@
   "name": "dxf-composer",
   "version": "0.1.0",
   "description": "A simple DXF generation library.",
-  "module": "./dist/dxf-composer.js",
+  "author": "Chase Patterson <chapatt@gmail.com>",
   "license": "ISC",
+  "homepage": "https://github.com/chapatt/dxf-composer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chapatt/dxf-composer"
+  },
+  "module": "./dist/dxf-composer.js",
   "devDependencies": {
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
