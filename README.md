@@ -1,5 +1,7 @@
 # dxf-composer
 
+A simple DXF generation library.
+
 ## Project setup
 ```
 yarn install
