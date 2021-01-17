@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A simple DXF generation library.",
   "module": "./dist/dxf-composer.js",
-  "license": "UNLICENSED",
+  "license": "ISC",
   "private": true,
   "devDependencies": {
     "webpack": "^4.44.1",
