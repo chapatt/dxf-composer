@@ -10,7 +10,8 @@
     "url": "https://github.com/chapatt/dxf-composer"
   },
   "main": "./dist/dxf-composer.js",
-  "module": "./dist/dxf-composer.js",
+  "module": "./src/index.js",
+  "type": "module",
   "devDependencies": {
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
