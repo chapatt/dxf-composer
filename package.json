@@ -4,7 +4,6 @@
   "description": "A simple DXF generation library.",
   "module": "./dist/dxf-composer.js",
   "license": "ISC",
-  "private": true,
   "devDependencies": {
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
