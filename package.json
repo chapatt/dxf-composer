@@ -1,6 +1,6 @@
 {
   "name": "dxf-composer",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A simple DXF generation library.",
   "author": "Chase Patterson <chapatt@gmail.com>",
   "license": "ISC",
